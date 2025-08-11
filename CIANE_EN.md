@@ -6,7 +6,7 @@
 
 ### 🧩 Otaku Traces
 
-■ GoldSheep / Aoba (@GoldSheep3) ■
+■ GoldSheep / Ciane (@GoldSheep3) ■
 
 **Acc Owner:** Male - 2003 - INFP - Neutral Good - Virgo  
 **Location:** Heilongjiang (Qiqihar University - Education Major)  
