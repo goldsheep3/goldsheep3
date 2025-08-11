@@ -27,7 +27,7 @@
 ### 🧭 My Goals?
 
 *   To become a craftsman who bridges **"Stardust of Inspiration (Creativity)"** and the **"Shore of Reality (Implementation)"**.
-*   To maintain **"Star with Land"** (星与彼岸) as an **anchor for personal exploration** and a **platform to meet like-minded enthusiasts**.
+*   To maintain [**"Star with Land"**]((http://blog.ciane.cn)) (星与彼岸) as an **anchor for personal exploration** and a **platform to meet like-minded enthusiasts**.
 
 ### 🎯 My Skills & Interests
 
@@ -38,7 +38,7 @@
     *   **Website Building & Maintenance** (Personal Blog)
     *   **Exploration of Pedagogical Theory** (Integrated with personal interests)
 *   **Things I Love**:
-    *   Classic Anime & Manga (Otaku Level: [`# See Extended List`](CIANE_EN.md))
+    *   Classic Anime & Manga (Otaku Level: [`# See about my avatar`](CIANE_EN.md))
     *   Music (Listening, Playing Piano)
     *   Rhythm Games (Maimai DX, Project Sekai, etc.)
     *   Sandbox Creation (Minecraft / Stardew Valley / Don't Starve Together)
