@@ -1,5 +1,8 @@
 CN | [EN](CIANE_EN.md) | [JP](CIANE_JP.md)
+
 通常版本: [CN](README.md) | [EN](README_EN.md) | [JP](README_HP.md)
+
+---
 
 ### 🧩 宅宅の痕迹
 
