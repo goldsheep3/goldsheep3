@@ -1,4 +1,4 @@
-CN | [EN](README_EN.md) | [JP](README_HP.md)
+CN | [EN](README_EN.md) | [JP](README_JP.md)
 
 `#GoldSheep3`  `#Ciane Luo`  `#Ciane`  `#三金羊`  `#金羊`  `#青羽`  <--这几个都是我喔。
 
