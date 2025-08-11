@@ -12,7 +12,7 @@
 **Location:** Heilongjiang (Qiqihar University - Education Major)  
 
 **Current Favorites:**  
-**Venti** (Genshin) / **Nishiki Asumi** (Creative Burst!) / Hoshino Ichika (Project SEKAI)  
+**Venti** (Genshin) / **Nishiki Asumi** (Creative Burst!) / **Hoshino Ichika** (Project SEKAI)  
 
 **Active Fandoms:**  
 `Rhythm Games (maimai DX CN / Project SEKAI JP)` | `Mahjong Soul` | `Minecraft Java` | `Stardew Valley` | `OC Creation` | `Vocaloid` | `Galge`  
