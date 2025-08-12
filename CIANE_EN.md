@@ -8,30 +8,30 @@
 
 ■ GoldSheep / Ciane (@GoldSheep3) ■
 
-**Acc Owner:** Male - 2003 - INFP - Neutral Good - Virgo  
+**Behind the Avatar:** Male - 2003 - INFP - Neutral Good - Virgo  
 **Location:** Heilongjiang (Qiqihar University - Education Major)  
 
-**Current Favorites:**  
+**Currently Being a Fan of:**  
 **Venti** (Genshin) / **Nishiki Asumi** (Hamidashi Creative) / **Hoshino Ichika** (Project SEKAI)  
 
 **Active Fandoms:**  
 `Rhythm Games (maimai DX CN / Project SEKAI JP)` | `Mahjong Soul` | `Minecraft Java` | `Stardew Valley` | `OC Creation` | `Vocaloid` | `Galge`  
 
 *   **maimai CN:** Main Sally & Miruku  
-*   **Project SEKAI:** **Leo/need** enthusiast, Main Ichika (leader)  
+*   **Project SEKAI:** Fan of **Leo/need**, Main Ichika (leader)  
 *   **Vocaloid:** Primarily Hatsune Miku, Kagamine Rin/Len, Kasane Teto. Others welcome.  
-*   **Minecraft:** **Java Edition (PC)** only. *Avoids NetEase Edition.*  
-*   **Galge:** Pure "Moege" consumer. **Not** plot-focused. Dedicated **Nishiki Asumi** fan!  
+*   **Minecraft:** **Java Edition (PC)** only. *Avoiding NetEase Edition.*  
+*   **Galgame:** Pure "Moege" consumer. **Not** plot-focused. Dedicated **Nishiki Asumi** fan!  
 
 **Past Fandoms:**  
 `Genshin Impact` | `Honkai: Star Rail` | `Zenless Zone Zero` | `Otome Games` | `RP Accounts` | `Dancing Line` | `Rolling Sky 2` | `Danmei`  
 
-*   **Genshin:** Rarely plays now. Anemo boys collector.  
+*   **Genshin:** Rarely playing now. Anemo boys collector.  
     **HSR/ZZZ:** Fully quit. Current gacha involvement unclear.  
-*   **Otome:** Played *Tears of Themis* (quit after Lv. Max) / *Mr Love* (quit pre-Ling Xiao).  
+*   **Otome-orient Games:** Played *Tears of Themis* (quit after Lv. Max) / *Mr Love* (quit pre-Ling Xiao).  
 *   **RP Accounts:** Formerly for original BL. Now **OC-exclusive**.  
-*   **Dancing Line (DL):** All levels "Perfect" (pre-Journey update).  
+*   **Dancing Line (DL):** All levels "Perfect" (brfore *The Journey* version).  
 *   **Rolling Sky 2 (RS2):** "Perfect" clear on all levels (PC/Mobile).  
 *   **Danmei:** Former niche novel reader. Now mostly inactive.  
 
-**⚠️ Dealbreaker:** Unannounced unfriending/blocking.
+**⚠️ Petpeeve:** Unannounced unfriending/blocking.
