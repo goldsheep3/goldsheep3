@@ -30,7 +30,7 @@
     **HSR/ZZZ:** Fully quit. Current gacha involvement unclear.  
 *   **Otome-orient Games:** Played *Tears of Themis* (quit after Lv. Max) / *Mr Love* (quit pre-Ling Xiao).  
 *   **RP Accounts:** Formerly for original BL. Now **OC-exclusive**.  
-*   **Dancing Line (DL):** All levels "Perfect" (brfore *The Journey* version).  
+*   **Dancing Line (DL):** All levels "Perfect" (before *The Journey* version).  
 *   **Rolling Sky 2 (RS2):** "Perfect" clear on all levels (PC/Mobile).  
 *   **Danmei:** Former niche novel reader. Now mostly inactive.  
 
