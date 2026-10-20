@@ -2,7 +2,9 @@ CN | [EN](README_EN.md) | [JP](README_JP.md)
 
 # Ciane Luo
 
-> 教育学本科毕业，现攻读计算机科学与技术第二学士学位。以 Python 为主力语言，学习中 GDScript。
+> 教育学本科毕业，现攻读计算机科学与技术第二学士学位。
+> 
+> 以 Python 为主力语言，GDScript 学习中。
 
 常用 ID：GoldSheep3 / Ciane / 三金羊 / 青羽
 
@@ -13,7 +15,7 @@ CN | [EN](README_EN.md) | [JP](README_JP.md)
 - 语言：Python（主力）、GDScript（学习中）、Java / JavaScript（了解）
 - 工具：VS Code、vim、Git、Ubuntu、NoneBot2
 - 项目：[lyra-bot](https://github.com/goldsheep3/lyra-bot)，基于 NoneBot2 的音游向 Bot，部署于 QQ 与 Telegram，已运行 14 个月
-- 自我观点：综合性+跨学科的广度发展，在许多场景 **无可替代** 。
+- 自我观点：综合性+跨学科的广度发展，在许多场景 **无可替代**。
 
 ## 创作
 
