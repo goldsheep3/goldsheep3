@@ -1,56 +1,58 @@
 [CN](README.md) | EN | [JP](README_JP.md)
 
-`#GoldSheep3`(`#三金羊`/`#金羊`), `#Ciane Luo`/`#Ciane`(`#青羽`)  <-- These are all me!
+# Ciane Luo
 
-> **Idea Refiner | Temporary Haven for the Mind**
->
-> Stay curious, keep building and connecting.
+> Bachelor's degree in Education completed; currently pursuing a second Bachelor's degree in Computer Science and Technology. Primary language: Python, currently learning GDScript.
 
-### 👤 Who Am I?
+Also known as: GoldSheep3 / Ciane / 三金羊 / 青羽
 
-*   **Pedagogy Student** (Transitioning from a science background)
-*   **Original Content Creator (OC)**: Focused on building complex fictional worlds
-*   **Minecraft Enthusiast**: Developer (Modpack creation / Modding) & Player
-*   **Tech Practitioner**: VPS Management / Minecraft Server Operation / Personal Website Building Experience
+## About
 
-### ⚡ What Am I Doing?
+*"Ordinary, but not unremarkable."*
 
-*   **Main Focus**:
-    *   ✨ **OC Worldbuilding**: Deep writing and detailed setting development for original stories and cosmologies.
-    *   ⛏️ **Minecraft Modpack/Mod Development**: Designing and creating unique modpack experiences, learning and experimenting with modding.
-    *   🌐 **Website/VPS/Server Operation**: Running and maintaining personal sites and Minecraft server environments.
-*   **Ongoing Pursuits**:
-    *   Learning and applying pedagogical knowledge, especially motivation and creativity cultivation (integrating scientific thinking with educational perspectives).
-    *   Exploring music and rhythm games (mobile/arcade rhythm games) as sources of inspiration and relaxation.
-    *   Playing the piano.
+- Languages: Python (primary), GDScript (learning), Java / JavaScript (familiar)
+- Tools: VS Code, vim, Git, Ubuntu, NoneBot2
+- Project: [lyra-bot](https://github.com/goldsheep3/lyra-bot), a rhythm-game-oriented bot built on NoneBot2, deployed on QQ and Telegram, running for 14 months
+- Note: breadth through synthesis and interdisciplinarity is **irreplaceable** in many situations
 
-### 🧭 My Goals?
+## Creation
 
-*   To become a craftsman who bridges **"Stardust of Inspiration (Creativity)"** and the **"Shore of Reality (Implementation)"**.
-*   To maintain [**"Star with Land"**]((http://blog.ciane.cn)) (星与彼岸) as an **anchor for personal exploration** and a **platform to meet like-minded enthusiasts**.
+- Blog "Star with Land": http://blog.ciane.cn
+- Original character worldbuilding (OC): long-term writing and setting development
 
-### 🎯 My Skills & Interests
-
-*   **Core Skills/Domains**:
-    *   **Fictional World Creation** (OC Worldbuilding)
-    *   **Minecraft Development** (Modpack Design / Modding Beginner)
-    *   **Server Management & Operation** (VPS, primarily Minecraft Server)
-    *   **Website Building & Maintenance** (Personal Blog)
-    *   **Exploration of Pedagogical Theory** (Integrated with personal interests)
-*   **Things I Love**:
-    *   Classic Anime & Manga (Otaku Level: [`# See about my avatar`](CIANE_EN.md))
-    *   Music (Listening, Playing Piano)
-    *   Rhythm Games (Maimai DX, Project Sekai, etc.)
-    *   Sandbox Creation (Minecraft / Stardew Valley / Don't Starve Together)
-    *   Tech Practice (Application to Operation)
-    *   The Joy of Connecting Ideas to Implementation
+<details>
+<summary>Fallen into anime for life, no cure [click to expand] (original text retained)</summary>
 
 ---
 
-Contact Me:
+■ 金羊 / 青羽 (@GoldSheep3) ■
 
-*   QQ: `2940119626`
-*   Email: gold_sheep_3@163.com
-*   Bilibili: [@GoldSheep3](https://space.bilibili.com/319894659)
-*   Steam: [goldsheep3](https://steamcommunity.com/id/goldsheep)
-*   X: [gold_sheep_3](https://x.com/gold_sheep_3)
+皮下男 - 2003 - INFP - 中立善良 - 处女座
+
+主推：温迪 / 锦亚澄 / 星乃一歌
+
+现坑 `音游(mai/pjsk日)`/`雀魂`/`MC`/`星露谷`/`oc`/`日术`/`gal`/`原`
+
+- mai推纱露朵/咪璐库 pjsk团魂l/n主推ick
+- 术听miki/双子/teto多一些 可不也听
+- 原神近段时间回坑，风少年完全推
+- MC不玩冈易服 PCJava正版
+- gal纯废萌人 非「剧情党」 是小天使(锦亚澄)推
+
+前坑 `铁`/`绝`/`乙游`/`语擦`/`DL`/`RS2`/`原耽`
+
+- 铁/绝已退 现成分极不明显
+- 乙游玩过未定(满级之后退的)/恋与(凌肖出来之前)
+- 语擦曾经玩原创blc 现在只用来玩oc
+- dl旅程前版本全完美 rs2 PC/手机全完美
+- 原耽是小说党 当年只看小众 现在看的很少了
+
+雷：无通知单删
+
+---
+
+</details>
+
+---
+
+QQ `2940119626` | [Email](mailto:gold_sheep_3@163.com) | [bilibili](https://space.bilibili.com/319894659) | [Steam](https://steamcommunity.com/id/goldsheep) | [X](https://x.com/gold_sheep_3)
