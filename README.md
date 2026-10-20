@@ -2,57 +2,28 @@ CN | [EN](README_EN.md) | [JP](README_JP.md)
 
 # Ciane Luo
 
-> 教育学本科毕业，现攻读计算机科学与技术第二学士学位。
-> 以 Python 为主要开发语言，正在学习 GDScript；关注想法从概念到可运行实现之间的工程路径。
+> 教育学本科毕业，现攻读计算机科学与技术第二学士学位。以 Python 为主力语言，学习中 GDScript。
 
 常用 ID：GoldSheep3 / Ciane / 三金羊 / 青羽
 
----
+## 关于
 
-## 关于我
+*「普通但不平凡。」*
 
-| 项目 | 内容 |
-| --- | --- |
-| 学业背景 | 教育学本科毕业；计算机科学与技术第二学士学位在读 |
-| 主要语言 | Python |
-| 学习中 | GDScript（Godot 引擎） |
-| 开发环境 | VS Code、vim、Git、Ubuntu |
-| 长期方向 | 长期维护线上服务的开发者；原创世界观构建者 |
+- 语言：Python（主力）、GDScript（学习中）、Java / JavaScript（了解）
+- 工具：VS Code、vim、Git、Ubuntu、NoneBot2
+- 项目：[lyra-bot](https://github.com/goldsheep3/lyra-bot)，基于 NoneBot2 的音游向 Bot，部署于 QQ 与 Telegram，已运行 14 个月
+- 自我观点：综合性+跨学科的广度发展，在许多场景 **无可替代** 。
 
-**跨学科和综合性，是特有的广度发展。**
+## 创作
 
-## 技术栈
-
-| 熟练度 | 语言 / 工具 | 说明 |
-| --- | --- | --- |
-| 主力 | Python | 日常开发、脚本自动化与线上服务维护 |
-| 学习中 | GDScript | Godot 引擎脚本，配合游戏逻辑实践 |
-| 了解 | Java、JavaScript | 有接触与阅读经验，尚未达到独立开发水平 |
-| 框架 | NoneBot2 | 机器人开发框架，用于 QQ 与 Telegram 平台适配 |
-| 环境 | Git + Linux | 服务器部署与日常维护 |
-
-## 代表项目
-
-| 项目 | 说明 | 技术栈 |
-| --- | --- | --- |
-| [lyra-bot](https://github.com/goldsheep3/lyra-bot) | 基于 NoneBot2 的音游向功能机器人，同时部署于 QQ 与 Telegram，已持续运行 14 个月 | Python / NoneBot2 |
-
-## 写作与创作
-
-### 博客
-
-「星与彼岸」（Star with Land）：http://blog.ciane.cn
-
-记录技术实践与世界观设定，作为个人探索的长期锚点。
-
-### 原创世界观（OC）
-
-长期进行原创故事与宇宙观的深度写作与设定完善，是本人在技术工作之外投入最持续的创作方向。相关设定文档与创作记录见博客归档。
-
-## 其他
+- 博客「星与彼岸」：http://blog.ciane.cn
+- 原创世界观（OC）：长期进行原创故事与宇宙观的写作与设定完善
 
 <details>
 <summary>染上二次元这辈子没救了【点击展开】</summary>
+
+---
 
 ■ 金羊 / 青羽 (@GoldSheep3) ■
 
@@ -78,12 +49,10 @@ CN | [EN](README_EN.md) | [JP](README_JP.md)
 
 雷：无通知单删
 
+---
+
 </details>
 
-## 联系
+---
 
-- 腾讯 QQ：`2940119626`
-- 电子邮件：gold_sheep_3@163.com
-- 哔哩哔哩：[@GoldSheep3](https://space.bilibili.com/319894659)
-- Steam：[goldsheep3](https://steamcommunity.com/id/goldsheep)
-- X：[@gold_sheep_3](https://x.com/gold_sheep_3)
+QQ `2940119626` | [Email](mailto:gold_sheep_3@163.com) | [bilibili](https://space.bilibili.com/319894659) | [Steam](https://steamcommunity.com/id/goldsheep) | [X](https://x.com/gold_sheep_3)
